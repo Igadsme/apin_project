@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>APIN – Parking Availability Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>APIN – Parking Availability</h1>
+        <p class="subtitle">Live view of each parking lot's open spots.</p>
+      </header>
+
+      <main>
+        <div id="status" class="status">Loading...</div>
+        <table id="availability-table" class="availability-table hidden">
+          <thead>
+            <tr>
+              <th>Lot</th>
+              <th>Total</th>
+              <th>Free</th>
+              <th>Occupied</th>
+              <th>Unknown</th>
+            </tr>
+          </thead>
+          <tbody id="availability-body"></tbody>
+        </table>
+      </main>
+
+      <footer>
+        <small>Backend must be running at <code>http://127.0.0.1:8000</code></small>
+      </footer>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
