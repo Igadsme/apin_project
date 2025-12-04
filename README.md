@@ -9,6 +9,10 @@ This repository contains a minimal end‑to‑end prototype of the **AI Parking 
 
 This is an MVP scaffold designed so you can replace the mock vision service with a real computer‑vision model later.
 
+In the later update patch
+upgraded features include: Ml models that can predit when the reduction in traffic is happening
+
+
 ## Quick Start
 
 1. Create and activate a virtual environment (optional but recommended):
