@@ -10,7 +10,8 @@ This repository contains a minimal end‑to‑end prototype of the **AI Parking 
 This is an MVP scaffold designed so you can replace the mock vision service with a real computer‑vision model later.
 
 In the later update patch
-upgraded features include: Ml models that can predit when the reduction in traffic is happening
+upgraded features include: ML models that can predict when the reduction in traffic is happening
+ML model that can predict the time when traffic and use phone motion sensors to reduce traffic and phone prediction models to tell when traffic is reduced
 
 
 ## Quick Start
