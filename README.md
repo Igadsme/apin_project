@@ -14,7 +14,7 @@ upgraded features include: ML models that can predict when the reduction in traf
 ML model that can predict the time when traffic and use phone motion sensors to reduce traffic and phone prediction models to tell when traffic is reduced
 
 
-## Quick Start
+ Quick Start
 
 1. Create and activate a virtual environment (optional but recommended):
 
@@ -54,3 +54,8 @@ ML model that can predict the time when traffic and use phone motion sensors to 
 6. Open the web dashboard:
 
    - Open `frontend/index.html` in your browser (or serve it with a simple HTTP server).
+
+
+
+Project currently in progress
+
