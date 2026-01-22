@@ -1,7 +1,7 @@
-# APIN – AI Parking Spot Intelligence Network (MVP)
+APIN – AI Parking Spot Intelligence Network
 
 This repository contains a minimal end‑to‑end prototype of the **AI Parking Spot Intelligence Network (APIN)**:
-
+currently in progress
 - Backend API built with FastAPI + SQLite
 - Data model for lots, cameras, and parking spots
 - Mock vision service that simulates occupancy detection
@@ -57,5 +57,5 @@ ML model that can predict the time when traffic and use phone motion sensors to 
 
 
 
-Project currently in progress
+Project is currently in progress
 
